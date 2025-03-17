@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently learning Java<br>- 🌱 I’m currently learning Fullstack<br>- 🤔 I’m looking for internship which enrich my skills<br>- 📫 How to reach me: priyankasrmail@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: Coding:plenty of drops to collect for ocean.</p>
+<p align="left">- 🔭 I’m currently learning Java<br>- 🌱 I’m currently learning Fullstack<br>- 🤔 I’m looking for internship which enrich my skills<br>- 📫 How to reach me: priyankasrmail@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: cup with full of codes.</p>
 
 ### Tech Stack
 
